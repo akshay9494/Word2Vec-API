@@ -1,0 +1,16 @@
+{
+  "dataSource": {
+    "file": {
+      "folderPath": "/Users/akshay/Desktop/word2vec corpora"
+    },
+    "existingEmbedding": "/Users/akshay/Documents/python_projects/Word2VecApi/Word2VecApi/embeddings_home/embeddings_train_2018-06-29--15-53-52/word2vec_model"
+  },
+  "intentHome": "/Users/akshay/Documents/python_projects/Word2VecApi/Word2VecApi/embeddings_home",
+  "trainingOutputs": {
+
+  },
+  "hosting": {
+    "host": "0.0.0.0",
+    "port": 9494
+  }
+}
